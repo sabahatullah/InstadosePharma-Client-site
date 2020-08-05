@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Instadose Pharma Corp. The World's largest Cannabis Oil Producer</title>
+    <meta name="description" content="">
+    <meta name="keywords" content='' />
+    <meta class="viewport" name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="apple-touch-icon" sizes="180x180" href="">
+    <link rel="icon" type="image/png" sizes="32x32" href="">
+    <link rel="icon" type="image/png" sizes="16x16" href="">
+    <link rel="manifest" href="">
+    <link rel="mask-icon" href="" color="#129968">
+    <meta name="msapplication-TileColor" content="#129968">
+    <meta name="theme-color" content="#129968">
+
+    <meta property="og:site_name" content="Instadose Pharma">
+    <meta property="og:title" content="Instadose Pharma">
+    <meta property="og:url" content="https://www.instadosepharma.com">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="">
+    <meta property="og:description" content="The World's Largest Cannabis Producer">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:image" content="">
+    <meta property="vk:image" content="">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Instadose Pharma">
+    <meta name="twitter:description" content="The World's Largest Cannabis Producer">
+
+    <!-- Styles -->
+    <link type="text/css" href="css/font-awesome.min.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/overlay.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/main.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/slick.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/home.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/info_bubble.css" rel="stylesheet" media="screen" />
+
+    <!-- Vars -->
+    <script type="application/javascript">
+        var random_value = '8c4fd0418253bfa5e94aa7ed7de22d99';
+        var scroll_down_strings = ["scroll down"];
+        var main_map_address = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var msc_address_bubble = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var ulan_address_bubble = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var habar_address_bubble = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var ekat_address_bubble = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var sahalin_address_bubble = '5500 N Service Rd. Burlington, Ontario Canada.';
+        var device_mode = 'desktop';
+    </script>
+
+    <!-- Javascript -->
+
+    <script type="text/javascript" src="js/mobile-detect.min"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="js/queryLoader.js"></script>
+
+
+    <script>
+        (function(){
+            function on_resize() {
+                if( window.innerWidth <= 780 ) {
+                    var hash = window.location.hash.substring(1);
+                    if( window.location.pathname = '/' && hash.length ){ window.location = '/mobile/news/' + hash + window.location.search; }
+                    else{ window.location = '/mobile' + window.location.pathname + window.location.search; }
+                }else{
+                    var old_viewport = document.querySelector('.viewport');
+                    if( old_viewport ) { old_viewport.parentNode.removeChild(old_viewport); }
+                    var viewport = document.createElement('META');
+                    viewport.setAttribute('name','viewport');
+                    viewport.setAttribute('content','width=1280, initial-scale=1.0, maximum-scale=1.0, user-scalable=no');
+                    document.getElementsByTagName('head')[0].appendChild(viewport);
+                }
+            }
+//          $(window).resize(on_resize);
+            on_resize();
+        })();
+	</script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>	
+</head>
+
+<body>
+
+    <div id="LZ" class="LZ"></div>
+    <script>(function(t){var r=new XMLHttpRequest();r.open('GET','/img/sprite.svg',true);r.setRequestHeader('X-Requested-With','XMLHttpRequest');r.onreadystatechange=function(){if(r.readyState !== 4) return void 0;var lz = document.getElementById('LZ');if(!lz){document.createElement('DIV');lz.id='LZ';lz.className='LZ';t.appendChild(lz);};var d=document.createElement('DIV');d.innerHTML=r.responseText;lz.appendChild(d);};r.send();})(document.body);</script>
+    <div class="white-load">
+        <div class="white-load-loader">
+            <div class="loader-logo"></div>
+            <div class="loader-descriptor loader-descriptor-en"></div>
+            <div class="loader-progress"></div>
+        </div>
+    </div>
+
+
+
+   <div class="menu-block">
+    <ul class="nav navbar-nav">
+        <li class=" active">
+            <a href="//instadosepharma.com">Home</a>
+        </li>
+
+        <li >
+            <a href="our-leadership">Our Leadership</a>
+        </li>
+
+        <li >
+            <a href="oil-facilities">Oil Facilities</a>
+        </li>
+
+        <li >
+            <a href="news">News</a>
+        </li>
+
+        <li >
+            <a href="contact">Contacts</a>
+        </li>
+
+        <li >
+            <a href="cbd-oil-request">CBD Oil Request Form</a>
+        </li>
+
+    </ul>    <!--	<a href="/user" class="login-link">Личный кабинет</a>-->
+    <a href=" " target="_blank" class="hidden login-link square-link">Тендерная площадка</a>
+    <div class="right-bl">
+        <div class="socials">
+                            <a href="https://twitter.com/instadosep" target="_blank" class="twitter">twitter</a>
+                            <a href="https://www.facebook.com/instadosepharma" target="_blank" class="facebook">facebook</a>
+                        </div>        <div class="close"><span>Close</span></div>
+    </div>
+</div>
+    <div class="fs-map-block">
+        <div id="map"></div>
+    </div>
+
+    <div class="grey-back js-background-color"></div>
+    <div id="screen" class="big-wrapper">
+
+        <div class="header">
+            <div class="container clearfix">
+                <div class="logo"><a href="/"><img src="img/logo-black.png" /></a></div>
+               
+                <div class="menu-trigger"><span>Menu</span>
+                    <div><i class="first-burg"></i><i class="mid-burg"></i><i class="last-burg"></i></div>
+                </div>
+                <div class="lang-switch">
+                    <a href="javascript:;/">
+                        <div class="rus no-active hidden">FR</div>
+                    </a>
+
+                    <div class="eng active">eng</div></a>
+                    <span class="lang-brick active-eng"></span>
+                </div>
+            </div>
+        </div>
+
+        <div id="content" class="content-wrapper">
+            <div id="main-block" class="main-block loading">
+
+
+                <video autoplay id="main-video" class="video-background" pip="false" data-play="0" muted="muted" loop preload="metadata" playsinline webkit-playsinline poster="img/video.jpg">
+                    <source autoplay src="video/video3.mp4" type="video/mp4" />
+                    <source autoplay src="video/video.webm" type="video/webm" />
+                </video>
+
+                <div class="main-video-overlay"></div>
+                <div class="text-block">
+                    <div class="text">Rising above the <span class="green">Cannabis </span>Horizon
+                        <br> as a <span class="green">Global Leader.</span>
+                        <br> </div>
+                </div>
+
+                <div class="scroll-down-btn js-scroll-down">
+                    <div class="plate">
+                        <div class="mouse">
+                            <div class="wheel js-wheel"></div>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <div class="js-text1 rollIn"></div>
+                        <div class="js-text2" style="display:none;"></div>
+                    </div>
+                </div>
+                <div class="logo js-site-logo"><img src="img/logo.png" /></div>
+
+                <div class="lang-switch">
+                    <a href="javascript:;">
+                        <div class="rus no-active hidden">FR</div>
+                    </a>
+
+                    <div class="eng active">eng</div></a>
+                    <span class="lang-brick active-eng"></span>
+                </div>
+
+                <div class="menu-trigger"><span>Menu</span>
+                    <div><i class="first-burg"></i><i class="mid-burg"></i><i class="last-burg"></i></div>
+                </div>
+                <!-- <div class="asterisk-tooltip js-asterisk-tooltip">
+                    <div>*</div>
+                    <div>By the number of drilling rigs for core drilling, according to<br> information from open sources, as of February 2017</div>
+                </div> -->
+                <div class="main-block-corner-box js-video-trigger-block" open-mode="overlay" vimeo-id="314298847">
+                    <div class="svb-description">About Instadose Pharma</div>
+                    <div class="svb-title">Corporate Video</div>
+                    <div class="video-button">
+                        <div class="video-trigger-button">
+                            <div class="bg"></div>
+                            Watch Video
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+                var w = window.innerWidth;
+                var h = window.innerHeight;
+
+                document.getElementById("main-block").style.width = w + "px";
+                document.getElementById("main-block").style.height = h + "px";
+            </script>
+        
+            <div class="service-block">
+                <div class="container home-container">
+                    <div class="block-title-small">
+                        Latest News
+                    </div>
+                    <div class="block-title">Meeting of Grant Sanders, CEO of Instadose Pharma <br>with Agriculture Minster of The DRC</div>
+                    <div class="services clearfix home-video-gallery">
+                        
+
+                        <iframe src="https://player.vimeo.com/video/313748033?title=0&byline=0&portrait=0" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe src="https://player.vimeo.com/video/312555193?title=0&byline=0&portrait=0" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+			
+			
+			
+			
+             <div class="service-block"> 
+				<div class="container home-container">			 
+					<div class="home-gallery-box"> 
+						<a href="siteImages/home/IMG_2398.jpg" data-lightbox="gallery-2" data-title="" id="1">
+								  <img src="siteImages/home/IMG_2398.jpg">
+						</a>
+						<a href="siteImages/home/IMG_2411.jpg" data-lightbox="gallery-2" data-title="" id="2">
+								  <img src="siteImages/home/IMG_2411.jpg">
+						</a>
+						 <a href="siteImages/home/IMG_2414.jpg" data-lightbox="gallery-2" data-title="" id="3">
+								   <img src="siteImages/home/IMG_2414.jpg">
+						</a>
+						 <a href="siteImages/home/IMG_2429.jpg" data-lightbox="gallery-2" data-title="" id="4">
+								   <img src="siteImages/home/IMG_2429.jpg">
+						</a>
+						 <a href="siteImages/home/IMG_2436.jpg" data-lightbox="gallery-2" data-title="" id="5">
+								   <img src="siteImages/home/IMG_2436.jpg">
+						</a>
+					</div>			
+				</div>
+            </div>
+			
+			
+			
+			
+			
+            <div class="service-block">
+                <div class="container home-container">
+                    <div class="block-title-small">
+                        INSTADOSE PHARMA
+                    </div>
+                    <div class="block-title">Leading the commercial and scientific <br>cannabis production and extraction</div>
+                    <div class="services clearfix">
+                        <div class="item">
+                            <video class="service-video-1" muted="muted" loop preload="metadata" playsinline webkit-playsinline>
+                                <source src="video1/service_2_1.webm" type="video1/webm">
+                                <source src="video1/service_2_1.mp4" type="video1/mp4">
+                            </video>
+                            <div>GMP Certified Facility</div>
+                            <span>We ensure that products are consistently produced and controlled according to the quality standards. </span>
+                        </div>
+                        <div class="item">
+                            <video class="service-video-2" muted="muted" loop preload="metadata" playsinline webkit-playsinline>
+                                <source src="video1/service_1_1.webm" type="video1/webm">
+                                <source src="video1/service_1_1.mp4" type="video1/mp4">
+                            </video>
+                            <div>EU Pharmacopoeia Standards</div>
+                            <span>We follow the legal and scientific benchmark for pharmacopoeial standards which contribute to delivering high quality medicines in Europe and beyond. </span>
+                        </div>
+                        <div class="item">
+                            <video class="service-video-5" muted="muted" loop preload="metadata" playsinline webkit-playsinline>
+                                <source src="video1/ogk_stats.webm" type="video1/webm">
+                                <source src="video1/ogk_des.mp4" type="video1/mp4">
+                            </video>
+                            <div>Licensed Pharmaceutical Facility</div>
+                            <span>We&nbsp;ensure our pharmaceutical facilities fulfil all international licensing Packaging</span>
+                        </div>
+
+                        <div class="item">
+                            <video class="service-video-5" muted="muted" loop preload="metadata" playsinline webkit-playsinline>
+                                <source src="video1/ogk_stats.webm" type="video1/webm">
+                                <source src="video1/ogk_des.mp4" type="video1/mp4">
+                            </video>
+                            <div>Branded Cannabis Products</div>
+                            <span>Proprietary cannabis delivery systems to service both the medical and recreational markets including solubility and stability enhancement, modified release and taste masking.</span>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+			<div class="video-block">
+                <div class="container home-container">
+                    <div class="block-title-small">Company mission</div>
+                    <div class="block-title">Our focus is to maintain 
+                    	<br>operational excellence
+                    	<br>and product quality.
+                    
+                     	
+                     </div>
+                    <div class="name">
+                        <span class="name">Grant F. Sanders</span>
+                        <div class="occupation">Chairman & CEO</div>
+                            
+                        <div class="video-button hidden">
+                            <div class="video-trigger video-trigger-en">
+                                <div class="bg"></div><a href="">xxx</a> </div>
+                        </div>
+                        <a class="link-button hidden" href="contacts">Read more</a>
+                    </div>
+                </div>
+            </div>
+            
+			<div class="service-block">
+                <div class="container home-container">
+                    <div class="block-title-small">Oil Production Facility</div>
+                    <div class="block-title">Instadose Pharma Corp. has the global Oil
+                        <br> production facilities which includes: </div>
+                    <div class="services clearfix">
+                        <div class="item">
+                            <video class="service-video-1" muted="muted" loop="" preload="metadata" playsinline="" webkit-playsinline="">
+                                <!-- <source src="/assets/public/images/service_2_1.webm" type="video1/webm">
+                                <source src="/assets/public/images/service_2_1.mp4" type="video1/mp4"> -->
+                            </video>
+                            <div>Democratic Republic of the Congo</div>
+                            <span>An Internationally licensed production facilities in Democratic Republic of the Congo with production capacity of up to 2,000,000 kilos of cannabis oil per year.</span>
+
+                        </div>
+                        <div class="item">
+                            <video class="service-video-2" muted="muted" loop="" preload="metadata" playsinline="" webkit-playsinline="">
+                                <!-- <source src="/assets/public/images/service_1_1.webm" type="video1/webm">
+                                <source src="/assets/public/images/service_1_1.mp4" type="video1/mp4"> -->
+                            </video>
+                            <div>Colombia</div>
+                            <span>An Internationally licensed production facilities in Colombia with production capacity of up to 30,000 kilos of cannabis oil per year.</span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+
+            <div class="statistic-block hidden">
+                <div class="container home-container">
+                    <div class="block-title-small">OIL PRODUCTION FACILITY</div>
+                    <div class="block-title">Instadose Pharma Corp. has the global Oil <br>
+                        production facilities which include:</div>
+                    <div class="note">
+                        relevant to 2018, January, 10th </div>
+                    <div class="progress-wrapper">
+                        <div class="progress-switcher">
+                            <div data-progress="1" data-default="0px">
+                                <span>Drilling<span class="line"></span></span>
+                            </div>
+                            <div data-progress="2" data-default="61px">
+                                <span>Drilling and blasting<span class="line"></span></span>
+                            </div>
+                            <div data-progress="3" data-default="122px">
+                                <span>Tax Paid<span class="line"></span></span>
+                            </div>
+                            <div data-progress="4" class="active" data-default="183px">
+                                <span>Workforce<span class="line"></span></span>
+                            </div>
+                        </div>
+                        <div class="progress progress-1">
+                            <div class="name">
+                                <div>We drilled to more than <span>3 900 000</span> meters</div>
+                            </div>
+                            <div class="lines">
+                                <div>
+                                    <span class="year">2016 &mdash; 2017</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 100%;"></span>
+                                    <span class="num" data-num-value="3243470"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2014 &mdash; 2015</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 16%;"></span>
+                                    <span class="num" data-num-value="517726"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2011 &mdash; 2013</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 7%;"></span>
+                                    <span class="num" data-num-value="227737"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress progress-2">
+                            <div class="name">
+                                <div>We blasted more than <span>71 000 000</span> m<sup>3</sup></div>
+                            </div>
+                            <div class="lines">
+                                <div>
+                                    <span class="year">2016 &mdash; 2017</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 100%;"></span>
+                                    <span class="num" data-num-value="69237822"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2014 &mdash; 2015</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 2%;"></span>
+                                    <span class="num" data-num-value="1723965"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2011 &mdash; 2013</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 1%;"></span>
+                                    <span class="num" data-num-value="230295"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress progress-3">
+                            <div class="name">
+                                <div>We paid more than <span>&#x24 65 000 000</span></div>
+                            </div>
+                            <div class="lines">
+                                <div>
+                                    <span class="year">2016 &mdash; 2017</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 100%;"></span>
+                                    <span class="num" data-num-value="35756467"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2014 &mdash; 2015</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 45%;"></span>
+                                    <span class="num" data-num-value="16382560"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2011 &mdash; 2013</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 36%;"></span>
+                                    <span class="num" data-num-value="12903506"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress progress-4 active" style="display: block">
+                            <div class="name">
+                                <div>We've got more than <span>1500</span> employees on the staff</div>
+                            </div>
+                            <div class="lines">
+                                <div>
+                                    <span class="year">2016 &mdash; 2017</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 100%;"></span>
+                                    <span class="num" data-num-value="1500"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2014 &mdash; 2015</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 50%;"></span>
+                                    <span class="num" data-num-value="990"></span>
+                                </div>
+                                <div>
+                                    <span class="year">2011 &mdash; 2013</span>
+                                    <span class="main-line"></span>
+                                    <span class="sub-line zero" style="width: 44%;"></span>
+                                    <span class="num" data-num-value="888"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="technick-block">
+                <video id="technick-video" muted="muted" loop class="video-background" data-play="0" preload="metadata" playsinline webkit-playsinline>
+                    <source src="video1/tehnika2.webm" type="video1/webm">
+                    <source src="video/second-back.mp4" type="video/mp4">
+                </video>
+                <div class="technick-video-overlay"></div>
+                <div class="container home-container">
+                    <div class="block-title-small">What do we offer</div>
+                    <div class="block-title">Our Product Offering </div>
+                    <div class="technick">
+                        <div class="item">
+                            <div class="num" style="margin-left: -6px;"><span>97</span>(+/-2%)</div>
+                            <div class="name">CBD Oil</div>
+                        </div>
+                        <div class="item">
+                            <div class="num" style="margin-left: -4px;"><span>92</span>(+/-2%)</div>
+                            <div class="name">THC</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="clients-block">
+                <div class="container home-container  hidden">
+                    
+                </div>
+            </div>
+
+            <div class="footer-home-block">
+                <div class="container home-container">
+                    <div class="block-title-small">contact information</div>
+                    <div class="block-title">We are always open for any kind of cooperation <br />and happy to answer any queries you might have.</div>
+                    <div class="address">
+                        <span>Our main office is located at:</span>
+                        <div class="map-trigger">5500 N Service Rd. Burlington, Ontario Canada.</div>
+                    </div>
+                    <div class="phone">
+                        <span>+1 (905) 218-3593</span>
+                        <div>Canadian office telephone</div>
+                        <a class="save-present hidden" target="_blank" href="">download pdf presentation</a>
+                        <a class="link" href="contact.php">Go to contacts page</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer">
+                <div class="menu">
+                    <div class="container">
+                        <ul class="nav navbar-nav">
+        <li class=" active">
+            <a href="//instadosepharma.com">Home</a>
+        </li>
+
+        <li >
+            <a href="our-leadership">Our Leadership</a>
+        </li>
+
+        <li >
+            <a href="oil-facilities">Oil Facilities</a>
+        </li>
+
+        <li >
+            <a href="news">News</a>
+        </li>
+
+        <li >
+            <a href="contact">Contacts</a>
+        </li>
+
+        <li >
+            <a href="cbd-oil-request">CBD Oil Request Form</a>
+        </li>
+
+    </ul>                    </div>
+                </div>
+                <div class="subfooter">
+                    <div class="container">
+                        <div class="develop">Design and development — <a> Happydev</a></div>
+                        <div class="socials">
+                            <a href="https://twitter.com/instadosep" target="_blank" class="twitter">twitter</a>
+                            <a href="https://www.facebook.com/instadosepharma" target="_blank" class="facebook">facebook</a>
+                        </div>                        <div class="copyrights">© 2018 «Instadose Pharma»</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="news-overlay" class="overlay">
+        <div id="news-card" class="overlay-popup news-card">
+            <div class="close-btn js-close">Close</div>
+            <div id="news-overlay-content" class="content js-content"></div>
+            <div class="back-btn js-close">Close</div>
+        </div>
+    </div>
+
+    <div id="news-subscribe-overlay" class="overlay service-overlay js-service-overlay">
+        <div class="overlay-popup news-subscribe-popup js-popup">
+            <div class="close-btn js-close">Close</div>
+
+            <div class="thank">
+                <div class="title">news.subscribe.title2</div>
+                <div class="back-btn js-close">Close</div>
+            </div>
+
+            <div class="loader"></div>
+
+            <div class="main">
+                <div class="title">news.subscribe.title</div>
+                <div class="note">news.subscribe.note</div>
+                <form action="/public/subscribe.json" method="post" id="subscribe_form" accept-charset="utf-8"> <label class="input"><span class="placeholder">E-mail</span><input class="required" type="text" name="email" /></label>
+                    <div style="text-align: right;position: relative">
+                        <div class="checkbox js-i-checkbox">
+                            <input type="hidden" name="agree" value="1" />
+                            <i class="active"></i><span>I consent <a href="/agreement" target="_blank">to process my personal data</a></span>
+                        </div>
+                        <label class="submit"><input type="submit" value="news.subscribe.btn" /></label>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="video-popup-overlay"></div>
+    <div class="video-popup video-popup-en">
+        <div class="close-btn">Close</div>
+        <iframe id="player1" style="width: 100%;height: 100%;" src="https://player.vimeo.com/video1/302560243?title=0&byline=0&portrait=0&color=129968" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+
+    <img src="img/play-icon-hover.svg" style="display: none" />
+
+    <img src="img/close-icon-dark.svg" style="display: none" />
+    <img src="img/close-icon-white.svg" style="display: none" />
+    <img src="img/close-icon.svg" style="display: none" />
+
+    <script type="text/javascript">
+        (function() {
+            var loader = $('.white-load');
+            if (loader.length) {
+                QueryLoader.init();
+            }
+        })();
+    </script>
+
+
+    <!-- Javascript -->
+
+    <script type="text/javascript" src="https://player.vimeo.com/api/player.js"></script>
+    <script type="text/javascript" src="js/iphone-inline-video.min.js"></script>
+    <script type="text/javascript" src="js/class.extend.js"></script>
+    <script type="text/javascript" src="js/jquery.transform2d.js"></script>
+    <script type="text/javascript" src="js/main2.js"></script>
+    <script type="text/javascript" src="js/force-vimeo-player.js"></script>
+    <script type="text/javascript" src="js/vimeo-player-overlay.js"></script>
+    <script type="text/javascript" src="js/video-trigger.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="js/scroll-content.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script type="text/javascript" src="js/info_bubble.js"></script>
+    <script type="text/javascript" src="js/news-box.js"></script>
+    <script type="text/javascript" src="js/home.js"></script>
+    <script type="text/javascript" src="js/news-subscribe.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDY9PeabVVAYnUamOY9vDdaB5JIlR3j53g&amp;callback=initMap&amp;language=en&amp;vp=0fc9be58142dbd7c0fc7d4d1384a93a6"></script>
+
+
+
+    <!-- Google.Analytics counter -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128664082-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128664082-1');
+</script>
+
+    <!-- /Google.Analytics counter -->
+
+</body>
+
+</html>
